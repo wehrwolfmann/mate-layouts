@@ -19,7 +19,7 @@ MATE Layouts is written in Python with the GTK Toolkit and based on mate-tweak.
 
 #### Manjaro:
 ```bash 
-sudo pacman -S python-distutils-extra 
+sudo pacman -S python-distutils-extra python-distro python-setproctitle
 ```
 
 #### Debian / Ubuntu:
